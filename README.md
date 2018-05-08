@@ -30,11 +30,15 @@ Convert the following designs to HTML/CSS/JS.
 ## Supported browsers
 Ensure that the elements work and display correctly in the following browsers:
 
-- Firefox (latest version)
-- Google Chrome (latest version)
-- Microsoft Edge
-- Internet Explorer 11
-
+- Desktop
+  - Firefox (latest version)
+  - Google Chrome (latest version)
+  - Microsoft Edge
+  - Internet Explorer 11
+- Tablet / Mobile
+  - Safari
+  - Chrome
+  
 ## Coding Standards
 When working on the project use consistent coding style. You can also check guidelines like [Code Guide](http://codeguide.co/) or [CSS Guidelines](http://cssguidelin.es/). *Optional bonus task 2:* Use [BEM Methodology](https://en.bem.info/methodology/)
 
