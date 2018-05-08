@@ -4,7 +4,7 @@ Front End Test Project
 ## Project brief
 Convert the following designs to HTML/CSS/JS.
 
-### Thumbnails
+### Thumbnail
 ![Vonnda Front End Test Thumbnails](vonnda-front-end-test-thumbnail.png)
 
 ## Requirements
@@ -17,6 +17,9 @@ Convert the following designs to HTML/CSS/JS.
 
 ## Invision App (Design)
 [Project Design](https://projects.invisionapp.com/d/main#/console/14226384/296006692/inspect)
+
+*Invision App Tip:* Use the inspector view to get appropriate dimensions and other details from the design.
+![Vonnda Front End Test Invision App](vonnda-front-end-test-invision.png)
 
 - The fonts used in the design are Lato and Merriweather
   - https://fonts.google.com/specimen/Lato?selection.family=Lato|Merriweather
